@@ -112,7 +112,9 @@ Now we must continue our deep dive and tear it all down
 ```
  
 Twitter-Post of the User: https://twitter.com/KatzeRegi/status/992877438404386816  
-A collection of the symbols and their meaning in the latin alphabet: https://puu.sh/AgM2W/a277f948a1.png
+A collection of the symbols and their meaning in the latin alphabet: *todoinsertthepicture*
+
+![
  
  
 ## Presents!! (May 6)
@@ -194,3 +196,4 @@ The creator nudged the summary writer to update the summary, noting that we migh
 [/dGhlcG9ydGFs.gif]: http://lunisticegame.com/dGhlcG9ydGFs.gif
 [/theportal.html]: http://lunisticegame.com/theportal.html
 [Suicune's notes on the 'barcode']: https://puu.sh/AUG2N/c5e63f222f.txt
+[LazyDogforLunistice]: 
